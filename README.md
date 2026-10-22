@@ -1,7 +1,18 @@
-# HR Employee Attrition Analysis — Excel Portfolio Project
+# HR Employee Attrition Analysis Using Microsoft Excel
 
-## Overview
-This project analyzes the fictional IBM HR Employee Attrition dataset using **Microsoft Excel**. The goal is to explore how attrition varies across job roles, departments, overtime, satisfaction, education, income, distance from home, and tenure.
+An end-to-end HR analytics portfolio project exploring employee attrition patterns using Microsoft Excel, data-quality checks, calculated fields, PivotTables, KPI summaries, and an interactive dashboard.
+
+**Tools:** Microsoft Excel | PivotTables | Excel formulas | Data visualization
+
+## Dashboard Preview
+
+![HR Employee Attrition Dashboard](images/hr-attrition-dashboard.png)
+
+*The dashboard summarizes employee attrition metrics and patterns across departments, job roles, and other workforce characteristics.*
+
+## Project Overview
+
+This project analyzes the IBM HR Employee Attrition practice dataset to explore employee turnover patterns and identify areas that may warrant further investigation. The workbook includes data preparation, quality checks, calculated fields, PivotTable analysis, KPI summaries, and dashboard visualizations.
 
 ## Business objective
 Turn employee-level HR data into a clear, auditable Excel analysis that helps stakeholders ask better questions about employee retention. The dataset is fictional; findings should be presented as descriptive associations rather than causal conclusions.
