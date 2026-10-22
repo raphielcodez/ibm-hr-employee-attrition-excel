@@ -160,7 +160,7 @@ Do not write conclusions until you have checked the PivotTable outputs. Use the 
 - [x] Business questions and PivotTable plan
 - [ ] Build and format final PivotTables/PivotCharts in Excel
 - [ ] Add slicers and test dashboard interactions
-- [ ] Capture a dashboard screenshot for GitHub/LinkedIn
+- [ ] Capture a dashboard screenshot for GitHub
 - [ ] Replace draft findings with verified insights from Excel outputs
 - [ ] Add final screenshot and project link to portfolio
 
@@ -173,5 +173,3 @@ Do not write conclusions until you have checked the PivotTable outputs. Use the 
 6. Save a screenshot to `dashboard/dashboard_screenshot.png`.
 7. Update this README with your verified findings and publish the workbook/project files.
 
-## Suggested GitHub description
-**Excel-based HR analytics project exploring employee attrition patterns by department, job role, overtime, satisfaction, income, distance from home, and tenure. Includes data preparation, data dictionary, quality checks, formula-driven KPIs, and an interactive dashboard roadmap.**
